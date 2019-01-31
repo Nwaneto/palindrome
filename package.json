@@ -1,6 +1,6 @@
 {
   "name": "chidi-palindrome",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "Palindrome detector",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Nwaneto/palindrome/issues"
   },
-  "homepage": "https://github.com/Nwaneto/palindrome#readme"
+  "homepage": "https://github.com/Nwaneto/palindrome#readme",
+  "directories": {
+    "test": "test"
+  }
 }
