@@ -1,0 +1,23 @@
+{
+  "name": "chidi-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nwaneto/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "warmup-app"
+  ],
+  "author": "Chidi Nwaneto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nwaneto/palindrome/issues"
+  },
+  "homepage": "https://github.com/Nwaneto/palindrome#readme"
+}
